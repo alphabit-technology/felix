@@ -1,0 +1,6 @@
+{
+  "name": "Felix Review",
+  "module": "felix",
+  "doc_structure": "[{\"node\": \"felixreview_section\", \"element\": \"section\", \"data\": {\"label\": \"ReviewSection\", \"animation_duration\": 1000}, \"elements\": [{\"node\": \"felixreview_widget\", \"element\": \"review\", \"data\": {\"label\": \"Opiniones\", \"animation_duration\": 1000, \"show_avg\": 1, \"show_form\": 1, \"require_rating\": 1, \"message\": \"¿Trabajamos en su proyecto? Nos encantaría conocer su opinión.\", \"reviews\": []}}]}]",
+  "__ENTITY__": "Page Builder"
+}
