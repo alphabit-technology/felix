@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "name": "felix-logo-dark.png",
+  "type": "image",
+  "extention": "png",
+  "size": 31038,
+  "storage_driver": "local",
+  "external_id": null,
+  "external_url": null,
+  "src": "/assets/public/felix-logo-dark.png",
+  "previewSrc": "/assets/public/thumbnails/felix-logo-dark.png",
+  "app": "felix",
+  "visibility": "public",
+  "updated_at": "2026-07-30T22:08:53.000Z"
+}

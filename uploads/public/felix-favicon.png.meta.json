@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "name": "felix-favicon.png",
+  "type": "image",
+  "extention": "png",
+  "size": 5189,
+  "storage_driver": "local",
+  "external_id": null,
+  "external_url": null,
+  "src": "/assets/public/felix-favicon.png",
+  "previewSrc": "/assets/public/thumbnails/felix-favicon.png",
+  "app": "felix",
+  "visibility": "public",
+  "updated_at": "2026-07-30T22:08:53.000Z"
+}
