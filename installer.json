@@ -1,7 +1,7 @@
 {
   "App": {
     "name": "felix",
-    "version": "1.0.51"
+    "version": "1.0.53"
   },
   "documents": {
     "Builder:Page Builder": {
@@ -17,7 +17,7 @@
       "type": "Web App",
       "name": "felix",
       "description": "Constructora Félix Ramírez",
-      "version": "1.0.51",
+      "version": "1.0.53",
       "autor": "alfredrz2012@gmail.com",
       "icon": "HardHat",
       "footer_height": "",
@@ -43,7 +43,7 @@
       "menu_items": [
         {
           "parent_document": "App",
-          "name": "Zw21p1fnlde572v",
+          "name": "E768Y6vJR9Fgd40",
           "page": "Felix Home",
           "link": "Inicio",
           "parent_menu": null,
@@ -52,7 +52,7 @@
         },
         {
           "parent_document": "App",
-          "name": "Bau7420p9P28Xl3",
+          "name": "bjHQUhlu3BYn7Ky",
           "page": "Felix About",
           "link": "Nosotros",
           "parent_menu": null,
@@ -61,7 +61,7 @@
         },
         {
           "parent_document": "App",
-          "name": "n14rEGZ5FBAS80C",
+          "name": "eJPH32p5NMml2s4",
           "page": "Felix Services",
           "link": "Servicios",
           "parent_menu": null,
@@ -70,7 +70,7 @@
         },
         {
           "parent_document": "App",
-          "name": "fBeMj75kmfqh834",
+          "name": "xNrPb5F7cJ3tpys",
           "page": "Felix Gallery",
           "link": "Gallery",
           "parent_menu": null,
@@ -79,7 +79,7 @@
         },
         {
           "parent_document": "App",
-          "name": "ME422i3yVXPsTY5",
+          "name": "hi1AmMuYnF6WU5h",
           "page": "Felix Review",
           "link": "Opiniones",
           "parent_menu": null,
@@ -88,7 +88,7 @@
         },
         {
           "parent_document": "App",
-          "name": "DMZO2WCJX5AYND1",
+          "name": "PU7RS0Vt7OJy9PX",
           "page": "Felix Contact",
           "link": "Contacto",
           "parent_menu": null,
@@ -126,9 +126,6 @@
     },
     "Page Builder:Felix Contact": {
       "__root__": "/apps/felix/modules/felix/pages/felix-contact"
-    },
-    "Page Builder:Felix Galery": {
-      "__root__": "/apps/felix/modules/felix/pages/felix-galery"
     },
     "Page Builder:Felix Gallery": {
       "__root__": "/apps/felix/modules/felix/pages/felix-gallery"
