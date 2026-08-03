@@ -1,7 +1,7 @@
 {
   "App": {
     "name": "felix",
-    "version": "1.0.53"
+    "version": "1.0.54"
   },
   "documents": {
     "Builder:Page Builder": {
@@ -17,7 +17,7 @@
       "type": "Web App",
       "name": "felix",
       "description": "Constructora Félix Ramírez",
-      "version": "1.0.53",
+      "version": "1.0.54",
       "autor": "alfredrz2012@gmail.com",
       "icon": "HardHat",
       "footer_height": "",
